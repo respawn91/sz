@@ -4,4 +4,4 @@ print("Hello, World!")
 print("Hello from Kazan!")
 print("Hello from Innopolis!")
 
-Лучшее блюдо в мире: щи!
+Лучшее блюдо в мире: пирожок с капустой
