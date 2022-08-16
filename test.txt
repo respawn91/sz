@@ -1,3 +1,5 @@
 Тестовый файл для показа работы GIT
 
 print("Hello, World!")
+print("Hello from Kazan!")
+print("Hello from Innopolis!")
